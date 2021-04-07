@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>CV - SPW</title>
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Kanit&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
@@ -109,8 +109,8 @@
                 </a>
             </div>
             <div class="col-md-12 mb-2">
-                <a class="text-center" href="./assets/image/img07.PNG">
-                    <img src="./assets/image/img07.PNG" alt="" class="img-thumbnail">
+                <a class="text-center" href="./assets/image/img07.png">
+                    <img src="./assets/image/img07.png" alt="" class="img-thumbnail">
                 </a>
             </div>
             <div class="col-md-6 mb-2">
