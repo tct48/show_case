@@ -55,6 +55,20 @@
         .content p {
             margin: 0px;
         }
+
+        .button {
+            background-color: #4CAF50;
+            /* Green */
+            border: none;
+            color: white;
+            padding: 7.5px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin:5px 0px 10px;
+            border-radius: 8px;
+        }
     </style>
 </head>
 
@@ -133,11 +147,9 @@
             <table border="0">
                 <tr>
                     <td style="vertical-align: top;">March 2020 - April 2021</td>
-                    <td>:<span style="margin-left: 15px;">&nbsp;</span>Nakhon Pathom Vocational College<br><span
-                            style="margin-left: 15px;">&nbsp;
+                    <td>:<span style="margin-left: 15px;">&nbsp;</span>Nakhon Pathom Vocational College<br><span style="margin-left: 15px;">&nbsp;
                             Practice Teacher<br><span style="margin-left: 15px;">&nbsp;
-                                Teaching Course : Introduction to computer graphic,<br><span
-                                    style="margin-left: 15px;">&nbsp;
+                                Teaching Course : Introduction to computer graphic,<br><span style="margin-left: 15px;">&nbsp;
                                     Program development with visual basic language
                     </td>
                 </tr>
@@ -174,7 +186,8 @@
                         <li>Develop web application with Angular7 and DBA (MySQL)</li>
                         <li>Application to manage CRUD information in database.</li>
                     </ul>
-                    <a href="./pathumthani.php">..see detail</a>
+                    
+                    <a href="./pathumthani.php" class="button">see detail</a>
                 </li>
                 <li>
                     • Project: Subpodsawat Co., Ltd. (Nakhon Pathom)<br>
@@ -186,6 +199,7 @@
                         <li>Develop Windows Forms App (.NET Framework)</li>
                         <li>Application to manage CRUD information in database.</li>
                     </ul>
+                    <a href="./spw.php" class="button">see detail</a>
                 </li>
             </ul>
         </div>
