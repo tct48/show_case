@@ -174,6 +174,7 @@
                         <li>Develop web application with Angular7 and DBA (MySQL)</li>
                         <li>Application to manage CRUD information in database.</li>
                     </ul>
+                    <a href="./pathumthani.php">..see detail</a>
                 </li>
                 <li>
                     • Project: Subpodsawat Co., Ltd. (Nakhon Pathom)<br>
